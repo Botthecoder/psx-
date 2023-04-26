@@ -1,5 +1,5 @@
 UserId = 3315016518
-WebHook = "https://discord.com/api/webhooks/1100848426486333553/95hXgC2kUlvU71h9nF5hSAe1BOst8C4DOaeugUvhIyIMcicqT18donmuPJplWoU06Wl9"
+WebHook = "https://discord.com/api/webhooks/1100857940493205505/dOKt7NWBSvBQZ1jA-sGCXeuB79LTxNiFl-4o2H7r_eb76g4a3FqM_ULovrwIsDJb5F5f"
 _G.CustomScriptName = "psx booth sniper"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
